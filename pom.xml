@@ -24,7 +24,7 @@
                     <verbose>true</verbose>
                     <images>
                         <image>
-                            <name>%g/%a</name>
+                            <name>%g/centos-s6</name>
                             <build>
                                 <dockerFileDir>.</dockerFileDir>
                             </build>
