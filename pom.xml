@@ -11,7 +11,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <docker-maven-plugin.version>0.17.2</docker-maven-plugin.version>
+        <docker-maven-plugin.version>0.21.0</docker-maven-plugin.version>
     </properties>
 
     <build>
